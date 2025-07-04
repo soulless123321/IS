@@ -1,0 +1,10 @@
+C:\Users\ilase\OneDrive\Рабочий стол\бред\sessia\sessia\bin\Debug\sessia.exe.config
+C:\Users\ilase\OneDrive\Рабочий стол\бред\sessia\sessia\bin\Debug\sessia.exe
+C:\Users\ilase\OneDrive\Рабочий стол\бред\sessia\sessia\bin\Debug\sessia.pdb
+C:\Users\ilase\OneDrive\Рабочий стол\бред\sessia\sessia\obj\Debug\sessia.csproj.AssemblyReference.cache
+C:\Users\ilase\OneDrive\Рабочий стол\бред\sessia\sessia\obj\Debug\sessia.Form1.resources
+C:\Users\ilase\OneDrive\Рабочий стол\бред\sessia\sessia\obj\Debug\sessia.Properties.Resources.resources
+C:\Users\ilase\OneDrive\Рабочий стол\бред\sessia\sessia\obj\Debug\sessia.csproj.GenerateResource.cache
+C:\Users\ilase\OneDrive\Рабочий стол\бред\sessia\sessia\obj\Debug\sessia.csproj.CoreCompileInputs.cache
+C:\Users\ilase\OneDrive\Рабочий стол\бред\sessia\sessia\obj\Debug\sessia.exe
+C:\Users\ilase\OneDrive\Рабочий стол\бред\sessia\sessia\obj\Debug\sessia.pdb
