@@ -1,0 +1,10 @@
+C:\Users\ilase\OneDrive\Рабочий стол\бред\AverageCalculator\AverageCalculator\obj\Debug\AverageCalculator.csproj.AssemblyReference.cache
+C:\Users\ilase\OneDrive\Рабочий стол\бред\AverageCalculator\AverageCalculator\obj\Debug\AverageCalculator.MainForm.resources
+C:\Users\ilase\OneDrive\Рабочий стол\бред\AverageCalculator\AverageCalculator\obj\Debug\AverageCalculator.Properties.Resources.resources
+C:\Users\ilase\OneDrive\Рабочий стол\бред\AverageCalculator\AverageCalculator\obj\Debug\AverageCalculator.csproj.GenerateResource.cache
+C:\Users\ilase\OneDrive\Рабочий стол\бред\AverageCalculator\AverageCalculator\obj\Debug\AverageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ilase\OneDrive\Рабочий стол\бред\AverageCalculator\AverageCalculator\bin\Debug\AverageCalculator.exe.config
+C:\Users\ilase\OneDrive\Рабочий стол\бред\AverageCalculator\AverageCalculator\bin\Debug\AverageCalculator.exe
+C:\Users\ilase\OneDrive\Рабочий стол\бред\AverageCalculator\AverageCalculator\bin\Debug\AverageCalculator.pdb
+C:\Users\ilase\OneDrive\Рабочий стол\бред\AverageCalculator\AverageCalculator\obj\Debug\AverageCalculator.exe
+C:\Users\ilase\OneDrive\Рабочий стол\бред\AverageCalculator\AverageCalculator\obj\Debug\AverageCalculator.pdb
